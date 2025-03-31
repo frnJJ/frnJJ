@@ -45,7 +45,6 @@
 <p align="left"> 
      <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
      <a href="https://numpy.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2JRr92k_oDy42tMe3RPwfU0r_5Rk_S2jwlU2WphT94jFMCRCbjASEZ7j1wbD2CPOzx6w&usqp=CAU" alt="express" width="44" height="44" / > </a>
-    <a href="https://matplotlib.org/" target="_blank"> <img src="https://static.javatpoint.com/tutorial/matplotlib/images/matplotlib-tutorial.png" alt="express" width="44" height="44"/> </a> 
     <a href="https://www.anaconda.com/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToZuGFq2Tj9gvDP6Dm7w5TeYGrmCy0KOtwc8tvDsy606EmhjdsUZV_qx-RbQGhA-KDW3Y&usqp=CAU" alt="pytorch" width="48" height="48" /> </a> 
     <a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://pbs.twimg.com/media/EhGuwXWXgAEERcn.png" alt="express" width="44" height="44"/> </a> 
     <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
@@ -64,7 +63,6 @@
 
 <p align="left"> 
     <a href="https://www.spyder-ide.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG4nmLnUDqDJMNYnvoIw2LrMP67vPbDNngRztSxwDftPQ7Hjk6gtHYIOwjQuCU0CILeT8&usqp=CAU" alt="express" width="43" height="40" /> </a> 
-    <a href="https://atom.io/"> <img src="https://img-premium.flaticon.com/png/512/3074/premium/3074119.png?token=exp=1626555999~hmac=2a1e95b7621c0c776e6670eedc9de410" alt="express" width="44" height="44"/ > </a>
     <a href="https://jupyter.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTQfO8XdRaElU-oiMX4jJFWjNO56ihBj8vLWl-8tZR0xFr4LL4nfzfXWLVCFeOjsGAZF4&usqp=CAU" alt="express" width="44" height="44"/> </a> 
   <a href="https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index#recent=true" target="_blank"> <img src="https://miro.medium.com/max/1042/1*L2u_koKpa1lcjvB8DEDHsg.jpeg" alt="express" width="44" height="44"/> </a> 
    <a href="https://www.codeblocks.org/" target="_blank"> <img src="https://1.bp.blogspot.com/-h9D36wzWc1E/WRHtrvRXlyI/AAAAAAAABPI/3MGZ1bpRPTYYxFWOkV-QwsXzY9klH-84gCLcB/s400/code%2Bblock%2Blogo.jpg" alt="express" width="43" height="40" /> </a> 
@@ -85,26 +83,9 @@
   
 
   
-  <a href="https://github.com/SumanthBajjuri07/android-app-market-on-Gplay">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SumanthBajjuri07&repo=android-app-market-on-Gplay&theme=great-gatsby" />
-</a>
-<a href="https://github.com/SumanthBajjuri07/clear-date-predictor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SumanthBajjuri07&repo=clear-date-predictor&theme=great-gatsby" />
+  <a href="https://github.com/FrancoCirielli16/TruequeTools">
 </a>
 
-  <a href="https://github.com/SumanthBajjuri07/project-football-matches">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SumanthBajjuri07&repo=project-football-matches&theme=great-gatsby" />
-</a>
-<a href="https://github.com/SumanthBajjuri07/investigating-the-netflix-movies">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SumanthBajjuri07&repo=investigating-the-netflix-movies&theme=great-gatsby" />
-</a>
-
-  <a href="https://github.com/SumanthBajjuri07/disney-movies-and-box-office-success">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SumanthBajjuri07&repo=disney-movies-and-box-office-success&theme=great-gatsby" />
-</a>
-<a href="https://github.com/SumanthBajjuri07/collab">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SumanthBajjuri07&repo=collab&theme=great-gatsby" />
-</a>
   
   
  
@@ -112,21 +93,21 @@
   <br>
   
 
-  ![Sumanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=SumanthBajjuri07&show_icons=true&theme=great-gatsby&count_private=true&include_all_commits=true)
+  ![Sumanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=frnJJ&show_icons=true&theme=great-gatsby&count_private=true&include_all_commits=true)
   
   
   
   
   
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SumanthBajjuri07&theme=great-gatsby&layout=compact&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frnJJ&theme=great-gatsby&layout=compact&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
 
   
   
    
  <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=SumanthBajjuri07&theme=great-gatsby&count_private=true&hide=issues"  />
+  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=frnJJ&theme=great-gatsby&count_private=true&hide=issues"  />
 </a>
 -->
   
@@ -136,7 +117,7 @@
   
   
   <p align="center">
-  <!--<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhuvaneshHingal&layout=compact&theme=solarized-light"> <br>-->
+  <!--<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frnJJ&layout=compact&theme=solarized-light"> <br>-->
   <img src="https://profile-counter.glitch.me/SumanthBajjuri07/count.svg">
 </p>
 
@@ -147,8 +128,6 @@
   ## ⚡️ Let's talk more:
 
 <p align="left"> 
-    <a href="https://www.linkedin.com/in/sumanth-bajjuri/" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="express" width="37" height="37"/> </a>
-    <a href="sumanth.bajjuri8121@gmail.com" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/732/732200.png" alt="express" width="42" height="42"/ > </a>
-   <a href="https://twitter.com/SumanthBajjuri?s=08" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/733/733579.png" alt="express" width="37" height="37"/> </a>
-    <a href="https://wa.link/3fjxvn" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/733/733585.png" alt="express" width="37" height="36"/ > </a>  
+    <a href="[https://www.linkedin.com/in/sumanth-bajjuri/](https://www.linkedin.com/in/francisco-manuel-jorge-058425284/)" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="express" width="37" height="37"/> </a>
+  
 </p>
